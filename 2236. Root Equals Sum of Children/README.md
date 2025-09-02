@@ -22,7 +22,7 @@ Explanation: The values of the root, its left child, and its right child are 10,
 #### Example 2:
 
 ```text
-       5
+       05
       /  \
      3    1
 
